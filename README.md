@@ -1,2 +1,1 @@
-# syllabust-beta
-Syllabust closed beta (static)
+Syllabust closed beta, static build served by GitHub Pages at app.syllabust.io.
